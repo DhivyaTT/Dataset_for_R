@@ -1,0 +1,11 @@
+CHROM	GENOME	BEDTOOLS
+chr1	1	5
+chr1	2	4
+chr1	3	3
+chr1	4	2
+chr1	5	1
+chr1	6	10
+chr1	7	20
+chr1	8	30
+chr1	9	40
+chr1	10	50
